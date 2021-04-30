@@ -29,7 +29,7 @@ Once you have successfully reproduced the testcases, you can move on to generate
 
 **Operational Configurations:**
 
-Alongside the main Python script to generate TAMSAT-ALERT forecasts are a series of operational configurations. These are 'add-ons' increasing the functionality of the TAMSAT-ALERT Python Tool to complete commonly requested tasks, such as adding local geographic boundaries. Further operational configurations will be added over time as required.
+Alongside the main Python script to generate TAMSAT-ALERT forecasts are a series of operational configurations. These are 'add-ons' increasing the functionality of the TAMSAT-ALERT Python Tool to complete commonly requested tasks, such as adding local geographic boundaries. Check out **'Using_Operational_Configurations.pdf'** for information on how to use them. Further operational configurations will be added over time as required.
 
 **Troubleshooting:**
 
